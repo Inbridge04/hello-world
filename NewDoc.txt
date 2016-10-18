@@ -1,1 +1,2 @@
 This is new doc to be commited.
+Now I am editting this document and will push to Github account.
